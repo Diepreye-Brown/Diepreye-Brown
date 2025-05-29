@@ -44,9 +44,7 @@ Designed a solution for handling file-lists using CSV/TSV and improving data exp
 
 ---
 
-## 📈 GitHub Stats
 
-[![Brown's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diepreye-Brown&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
